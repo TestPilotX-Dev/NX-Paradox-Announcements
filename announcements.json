@@ -1,0 +1,21 @@
+{
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+  "announcements": [
+    {
+      "id": 2,
+      "title": "Actualización v3.1 — Conexión restaurada",
+      "body": "Se lanzó una nueva versión del programa que corrige un problema crítico de conectividad con los servidores. Si estás viendo esta aplicación abierta, significa que ya tienes la última versión instalada. ¡Gracias por tu paciencia!",
+      "date": "11 de Abril, 2026",
+      "type": "update",
+      "link": "https://testpilotx.net/nx-paradox/"
+    },
+    {
+      "id": 1,
+      "title": "Bienvenido a NX Paradox",
+      "body": "Gracias por usar NX Paradox. Únete a nuestro Discord para recibir soporte, actualizaciones y participar en la comunidad.",
+      "date": "10 de Abril, 2026",
+      "type": "announcement",
+      "link": "https://discord.gg/Q4bS9faTJA"
+    }
+  ]
+}
