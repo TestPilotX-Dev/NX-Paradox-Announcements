@@ -2,6 +2,16 @@
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
   "announcements": [
     {
+      "id": 3,
+      "title": "NX Paradox v4.3 — Homebrew listo para firmware 21+ y trucos que cargan a la primera",
+      "body": "Sabes qué apps están listas para tu consola y en qué versión cargan tus trucos.\n\n• 🎉 Lo nuevo de cada versión, al abrirla\n• 🧩 Compatibilidad con firmware 21+ en cada app\n• 🎯 Archivos que Atmosphère acepta\n• ✅ Cada archivo, revisado en tu microSD\n…y 30 cambios más.",
+      "date": "29 de Octubre, 2026",
+      "type": "update",
+      "link": "https://testpilotx.net/nx-paradox/",
+      "key": "release-v4.3",
+      "version": "4.3"
+    },
+    {
       "id": 2,
       "title": "Actualización v3.1 — Conexión restaurada",
       "body": "Se lanzó una nueva versión del programa que corrige un problema crítico de conectividad con los servidores. Si estás viendo esta aplicación abierta, significa que ya tienes la última versión instalada. ¡Gracias por tu paciencia!",
@@ -17,5 +27,6 @@
       "type": "announcement",
       "link": "https://discord.gg/Q4bS9faTJA"
     }
-  ]
+  ],
+  "last_id": 3
 }
