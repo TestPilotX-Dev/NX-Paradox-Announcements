@@ -20,22 +20,6 @@
       "link": "https://testpilotx.net/nx-paradox/",
       "key": "release-v4.3",
       "version": "4.3"
-    },
-    {
-      "id": 2,
-      "title": "Actualización v3.1 — Conexión restaurada",
-      "body": "Se lanzó una nueva versión del programa que corrige un problema crítico de conectividad con los servidores. Si estás viendo esta aplicación abierta, significa que ya tienes la última versión instalada. ¡Gracias por tu paciencia!",
-      "date": "11 de Abril, 2026",
-      "type": "update",
-      "link": "https://testpilotx.net/nx-paradox/"
-    },
-    {
-      "id": 1,
-      "title": "Bienvenido a NX Paradox",
-      "body": "Gracias por usar NX Paradox. Únete a nuestro Discord para recibir soporte, actualizaciones y participar en la comunidad.",
-      "date": "10 de Abril, 2026",
-      "type": "announcement",
-      "link": "https://discord.gg/Q4bS9faTJA"
     }
   ],
   "last_id": 4
